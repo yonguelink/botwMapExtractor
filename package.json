@@ -1,0 +1,14 @@
+{
+  "name": "zelda",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node main"
+  },
+  "dependencies": {
+    "async": "^2.1.5",
+    "fs-extra": "^2.1.2",
+    "gm": "^1.23.0",
+    "request": "^2.81.0"
+  }
+}
