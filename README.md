@@ -11,3 +11,11 @@ You need to install [GraphicMagick](http://www.graphicsmagick.org/) for the imag
 Simply run `npm install` and `npm start` to run the tool
 
 Read the first few lines (for now) to see the "parameters" you can give it (hardcoded, for now).
+
+
+## WARNING
+
+In the `main.js` file, I reference IGN and Zelda Dungeon as potentials sources BUT this essentially steals their content.
+Don't abuse this little tool.
+
+Once I'm done I'll include the map resulting from both sources in this repo (given they aren't too large).

@@ -101,11 +101,11 @@ let mergeColumns = function(columns, i, max, callback){
 };
 
 prepareFolder(()=>{
-    let x = 0, y = 0;
+    let x = 1, y = 1;
     doY(x, y, (z)=>{
         mergeAll(0, z, ()=>{
             console.log("Done");
         });
-    });
+   });
 });
 
