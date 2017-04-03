@@ -18,4 +18,14 @@ Read the first few lines (for now) to see the "parameters" you can give it (hard
 In the `main.js` file, I reference IGN and Zelda Dungeon as potentials sources BUT this essentially steals their content.
 Don't abuse this little tool.
 
-Once I'm done I'll include the map resulting from both sources in this repo (given they aren't too large).
+## Result
+
+Here's the resulting maps extracted using this tool.
+
+[Maps](https://drive.google.com/drive/folders/0B2SoDSVO9yJkWEhtN0NBWkNhTnc?usp=sharing)
+
+In this folder, you'll find:
+ 
+ `found.png` which is the original map I found that gave me the idea of having something with greater quality
+ `IGN.png` which is the result of extracting the map from IGN
+ `zeldadungeon.png` which is the result of extracting the map from Zelda Dungeon
